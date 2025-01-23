@@ -1,7 +1,7 @@
 import React from 'react';
 import GA4React from 'ga-4-react';
 
-const ga4react = new GA4React('G-KCG05CSSKV'); // Replace with your Measurement ID
+const ga4react = new GA4React('G-MKX07C4XSN'); // Replace with your Measurement ID
 
 function App() {
   const handleClick = () => {
