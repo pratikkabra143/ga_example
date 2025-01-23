@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import GA4React from 'ga-4-react';
 
-const ga4react = new GA4React('G-KCG05CSSKV'); 
+const ga4react = new GA4React(' G-MKX07C4XSN'); 
 
 (async () => {
   await ga4react.initialize()
